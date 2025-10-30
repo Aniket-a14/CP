@@ -1,4 +1,4 @@
-//Forbidden Integer
+//A. Forbidden Integer
 #include <bits/stdc++.h>
 using namespace std;
 

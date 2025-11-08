@@ -1,0 +1,1 @@
+{"name":"Local: que_26","url":"c:\\3rd Year\\CP\\TLE_800\\que_26.cpp","tests":[{"id":1762602677762,"input":"6\n2\n3 6\n3\n1 2 4\n3\n3 6 1\n3\n15 35 21\n4\n35 10 35 14\n5\n1261 227821 143 4171 1941","output":"No\nYes\nYes\nNo\nYes\nYes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\3rd Year\\CP\\TLE_800\\que_26.cpp","group":"local","local":true}

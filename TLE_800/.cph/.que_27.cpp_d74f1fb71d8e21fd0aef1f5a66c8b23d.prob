@@ -1,0 +1,1 @@
+{"name":"Local: que_27","url":"c:\\3rd Year\\CP\\TLE_800\\que_27.cpp","tests":[{"id":1762753618923,"input":"3\n6\n2 2 1 2 1 2\n3\n1 2 1\n4\n1 1 1 1","output":"2\n-1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\3rd Year\\CP\\TLE_800\\que_27.cpp","group":"local","local":true}
